@@ -228,19 +228,4 @@ This project demonstrates backend system design with scalability, resilience, an
 
 ---
 
-# ✅ Now What To Do
-
-1. Open `README.md`
-2. Delete everything
-3. Paste this new content
-4. Save
-5. Run:
-
-```bash
-git add README.md
-git commit -m "Updated README with new documentation"
-git push origin main
-```
-
----
 
